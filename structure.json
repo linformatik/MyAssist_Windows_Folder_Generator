@@ -1,0 +1,15 @@
+{
+  "root_name": "MyAssist_IT",
+  "folders": [
+    "IT/Windows/ActiveDirectory",
+    "IT/Windows/Server",
+    "IT/Windows/PowerShell",
+    "IT/Windows/Client",
+    "IT/Windows/Security",
+    "IT/Linux/Administration",
+    "IT/Linux/Networking",
+    "IT/Linux/Docker_Containers",
+    "IT/Linux/Server_Hosting",
+    "IT/Netzwerk"
+  ]
+}
